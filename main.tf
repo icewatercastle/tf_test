@@ -14,6 +14,6 @@ provider "azurerm" {
 }
 
 resource "azurerm_resource_group" "marketing" {
-  name     = "marketing"
+  name     = "marketin11111111111g"
   location = "northeurope"
 }
