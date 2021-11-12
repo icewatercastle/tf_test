@@ -14,7 +14,7 @@ provider "azurerm" {
 }
 
 resource "azurerm_resource_group" "instagram" {
-  name     = "instagram"
+  name     = "iniiddstagram"
   location = "northeurope"
 }
 
